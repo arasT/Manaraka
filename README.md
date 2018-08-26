@@ -2,14 +2,13 @@ manaraka
 =========
 
 A System Monitor like into command line.
-Please check the [ManarakaWUI](https://github.com/arast/manarakaWUI) if you want to use an web interface instead the command line.
+Please check the [ManarakaWUI](https://github.com/arasT/ManarakaWUI) if you want to use an web interface instead the command line.
 
 Screeshoots
 ---
-
-[Ressources graph](screenshoot/Manaraka_graphs.png)
-[Processes](screenshoot/Manaraka_processes.png)
-[Files System](screenshoot/Manaraka_filesSystem.png)
+<img src="./screenshoots/Manaraka_graphs.png" alt="Ressources graph" width="800">
+<img src="./screenshoots/Manaraka_processes.png" alt="Processes" width="800">
+<img src="./screenshoots/Manaraka_filesSystem.png" alt="Files System" width="800">
 
 How to install
 ---
@@ -21,7 +20,7 @@ It uses:
 
 Clone or Download this repository.
 ```
-git clone https://github.com/arastpopulos/manaraka
+git clone https://github.com/arasT/Manaraka
 ```
 Extract the archive and move into it.
 ```
@@ -48,7 +47,7 @@ node .
 Keyboard shortcuts
 ---
 
-* Arrow left or Arrow right to switch between tabs.
+* 'Arrow Left' or 'Arrow Right' to switch between tabs.
 * 'q' or 'ctrl + c' to quit the app.
 
 License
