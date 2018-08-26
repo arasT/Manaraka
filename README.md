@@ -6,8 +6,8 @@ Please check the [ManarakaWUI](https://github.com/arasT/ManarakaWUI) if you want
 
 Screeshoots
 ---
-<img src="./screenshoots/Manaraka_graphs.png" alt="Ressources graph" width="800">
-<img src="./screenshoots/Manaraka_processes.png" alt="Processes" width="800">
+<img src="./screenshoots/manaraka_graphs.png" alt="Ressources graph" width="800">
+<img src="./screenshoots/manaraka_processes.png" alt="Processes" width="800">
 <img src="./screenshoots/Manaraka_filesSystem.png" alt="Files System" width="800">
 
 How to install
