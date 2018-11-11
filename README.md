@@ -4,7 +4,7 @@ manaraka
 A System Monitor like into command line.
 Please check the [ManarakaWUI](https://github.com/arasT/ManarakaWUI) if you want to use an web interface instead the command line.
 
-Screeshoots
+Screenshots
 ---
 <img src="./screenshoots/manaraka_graphs.png" alt="Ressources graph" width="800">
 <img src="./screenshoots/manaraka_processes.png" alt="Processes" width="800">
